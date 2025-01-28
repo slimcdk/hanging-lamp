@@ -37,7 +37,7 @@ In progress.
 ## Assembly guide
 
 > [!CAUTION]
-:skull: **MAINS VOLTAGE** *Don't proceed if you an're comftable with wiring mains voltage.*
+:skull: **MAINS VOLTAGE** *Don't proceed if you aren't comftable with wiring mains voltage.*
 
 
 
